@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahsan Ali
 
-I'm a **Frontend Web Developer** with **1 year of experience** in crafting sleek, responsive, and dynamic web applications. I specialize in **Next.js** and **React.js**, and I'm fascinated by **Blockchain**, **Web3**, and cutting-edge technologies.
+I'm a **Frontend Web Developer** with **2 year of experience** in crafting sleek, responsive, and dynamic web applications. I specialize in **Next.js** and **React.js**, and I'm fascinated by **Blockchain**, **Web3**, and cutting-edge technologies.
 
 ---
 
