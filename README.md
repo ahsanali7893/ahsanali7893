@@ -46,7 +46,6 @@ I'm a **Frontend Web Developer** with **1 year of experience** in crafting sleek
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahsanali7893&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali7893&layout=compact&theme=radical" />
 </p>
 
