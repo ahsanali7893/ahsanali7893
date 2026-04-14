@@ -43,14 +43,6 @@ I'm a **Frontend Web Developer** with **2 years of experience** in crafting slee
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="start">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanali7893&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 💖 Let's Collaborate
 
 I'm always looking for exciting projects and opportunities to collaborate with fellow developers! Reach out if you'd like to work together or have a conversation about **Web3** or **Frontend Development**. Let's build something amazing! 🚀
